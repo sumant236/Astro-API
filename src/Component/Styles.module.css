@@ -1,0 +1,12 @@
+.inputBox{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: nowrap;
+    margin: 30px 10px;
+    max-width: 100%;
+    max-height: 50px;
+}
+.dropdown, .btn{
+    width: 16%;
+    height: 41px;
+}
