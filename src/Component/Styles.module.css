@@ -10,3 +10,10 @@
     width: 16%;
     height: 41px;
 }
+.dataWrapper{
+    display: flex;
+    justify-content: flex-start;
+}
+.dataWrapper > h3{
+    margin: 10px;
+}
